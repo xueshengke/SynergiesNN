@@ -9,5 +9,5 @@ mnistNN.m	训练神经网络的入口程序，网络的参数修改均在此文�
 
 --------------
 If you have any questions about this project, please do not hesitate to contact me.
-# Shengke, Xue
+Shengke, Xue
 e-mail: xueshengke@zju.edu.cn, xueshengke1993@163.com, or xueshengke1993@gmail.com
